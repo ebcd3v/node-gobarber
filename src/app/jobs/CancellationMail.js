@@ -1,9 +1,9 @@
 import { format, parseISO } from 'date-fns';
 import Mail from '../../lib/Mail';
 
-class CancelationMail {
+class CancellationMail {
   get key() {
-    return 'CancelationMail';
+    return 'CancellationMail';
   }
 
   async handle({ data }) {
@@ -22,4 +22,4 @@ class CancelationMail {
   }
 }
 
-export default new CancelationMail();
+export default new CancellationMail();

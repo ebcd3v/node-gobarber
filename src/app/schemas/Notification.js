@@ -8,11 +8,11 @@ const NotificationSchema = new mongoose.Schema(
     },
     user: {
       type: Number,
-      require: true,
+      required: true,
     },
     read: {
       type: Boolean,
-      require: true,
+      required: true,
       default: false,
     },
   },

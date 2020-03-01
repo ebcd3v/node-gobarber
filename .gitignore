@@ -1,0 +1,7 @@
+node_modules
+build
+npm-debug.log
+tmp
+.env
+.DS_Store
+.vscode
