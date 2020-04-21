@@ -1,16 +1,16 @@
 Backend made with Express.js at Rocketseat GoStack Bootcamp.
 
-Features
+# Features
 This backend features the latest tools and practices in web development!
 
-💹 Express — JavaScript back-end Framework
-🐋 Docker — Containers
-♻️ Bee Queue — Task queue for jobs (uses Redis)
-💌 Nodemailer - E-mails
-🖼️ Handlebars - View template (used for e-mails)
-💖 PostgreSQL — For general data (except notifications and jobs)
-💖 MongoDB — For notifications
-💖 Redis — For jobs
+- 💹 **Express** — JavaScript back-end Framework
+- 🐋 **Docker** — Containers
+- ♻️ **Bee Queue** — Task queue for jobs (uses Redis)
+- 💌 **Nodemailer** - E-mails
+- 🖼️ **Handlebars** - View template (used for e-mails)
+- 💖 **PostgreSQL** — For geneeral data (except notifications and jobs)
+- 💖 **MongoDB** — For notifications
+- 💖 **Redis** — For jobs
 
 I've used other libraries too, like multer for file uploads; youch and sentry for errors; jsonwebtoken and bcrypt for authentication.
 
