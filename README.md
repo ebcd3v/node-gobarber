@@ -1,7 +1,7 @@
 Backend made with Express.js at Rocketseat GoStack Bootcamp.
 
 # Features
-- **Express**(https://github.com/dcodeIO/bcrypt.js) — JavaScript back-end Framework
+- **[Express](https://github.com/dcodeIO/bcrypt.js)** — JavaScript back-end Framework
 - **JWT**(https://github.com/auth0/node-jsonwebtoken) - JSON Web Token for authentication
 - **bcryptjs**(https://github.com/dcodeIO/bcrypt.js) - Encrypt password for authentication
 - **Redis**(https://redis.io/documentation) — For jobs
